@@ -9,4 +9,4 @@ This app will allow the customer to keep track on his/her tasks, by creating new
 
 The solution implemented should be written using the OOP principles. The application can be layered structured (as in the FP and OOP courses). As per data persistence, it is your choice, but you can try different approaches, from keeping the data in memory or persist it in a database.
 
-* Each team member will have to make at least one commit and one PR on this following GitHub repo *
+* Each team member will have to make at least one commit and one PR on this GitHub repo *
